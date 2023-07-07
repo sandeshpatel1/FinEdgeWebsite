@@ -1,0 +1,13 @@
+/* src/styles.css */
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family:'Open Sans', sans-serif ;
+}
+#nav{
+    height: 80px;
+    width: 100%;
+
+}
+/* src/styles.css */

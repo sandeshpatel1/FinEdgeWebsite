@@ -1,0 +1,31 @@
+
+#section{
+    background: url(../../Images/stacked-waves-haikei.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* src/styles.css */
+@media (max-width: 767px) {
+    /* Mobile Styles */
+    .home-section {
+      padding-top: 2rem;
+      padding-bottom: 2rem;
+    }
+  }
+  
+  @media (min-width: 768px) {
+    /* Tablet and larger screen styles */
+    .home-section {
+      padding-top: 6rem;
+      padding-bottom: 6rem;
+    }
+  }
+  
+  @media (min-width: 1024px) {
+    /* Larger screen styles */
+    .home-section {
+      padding-top: 10rem;
+      padding-bottom: 10rem;
+    }
+  }

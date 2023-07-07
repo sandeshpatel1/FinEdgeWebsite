@@ -1,3 +1,22 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;800&family=Climate+Crisis&family=DynaPuff:wght@400;500;600&family=Figtree:wght@400;500;600;800&family=Martian+Mono:wght@400;600;700;800&family=Nunito+Sans:opsz,wght@6..12,200;6..12,400;6..12,600;6..12,800&family=Nunito:wght@300;400;600;800&family=Poppins&display=swap');
+/* src/styles.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Additional custom styles can be added here */
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+/* Your custom styles here */
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -11,3 +30,4 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
